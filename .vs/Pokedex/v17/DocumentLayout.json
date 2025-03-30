@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zach\\source\\repos\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\views\\home\\selectmove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\views\\home\\selectmove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\views\\home\\addpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\views\\home\\addpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\views\\home\\editpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\views\\home\\editpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\data\\pokedexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\data\\pokedexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\views\\home\\viewpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\views\\home\\viewpokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\pokedex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\pokedex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\wwwroot\\data\\pokemon_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\wwwroot\\data\\pokemon_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\wwwroot\\data\\moves.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\wwwroot\\data\\moves.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|c:\\users\\zach\\source\\repos\\pokedex\\pokedex\\migrations\\20250311232148_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0FE9A8-BB5E-4129-8C37-AB19ADACF879}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\migrations\\20250311232148_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\.gitignore",
+              "RelativeDocumentMoniker": "Pokedex\\.gitignore",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\.gitignore",
+              "RelativeToolTip": "Pokedex\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T20:12:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pokedex\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pokedex\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:22:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250311232148_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Migrations\\20250311232148_initial.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Migrations\\20250311232148_initial.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Migrations\\20250311232148_initial.cs",
+              "RelativeToolTip": "Pokedex\\Migrations\\20250311232148_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:21:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\appsettings.json",
+              "RelativeDocumentMoniker": "Pokedex\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\appsettings.json",
+              "RelativeToolTip": "Pokedex\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T23:18:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Program.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Program.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Program.cs",
+              "RelativeToolTip": "Pokedex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:18:27.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewPokemon.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\ViewPokemon.cshtml",
+              "RelativeDocumentMoniker": "Pokedex\\Views\\Home\\ViewPokemon.cshtml",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\ViewPokemon.cshtml",
+              "RelativeToolTip": "Pokedex\\Views\\Home\\ViewPokemon.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:15:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectMove.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\SelectMove.cshtml",
+              "RelativeDocumentMoniker": "Pokedex\\Views\\Home\\SelectMove.cshtml",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\SelectMove.cshtml",
+              "RelativeToolTip": "Pokedex\\Views\\Home\\SelectMove.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:13:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPokemon.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\EditPokemon.cshtml",
+              "RelativeDocumentMoniker": "Pokedex\\Views\\Home\\EditPokemon.cshtml",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\EditPokemon.cshtml",
+              "RelativeToolTip": "Pokedex\\Views\\Home\\EditPokemon.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:15:26.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPokemon.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\AddPokemon.cshtml",
+              "RelativeDocumentMoniker": "Pokedex\\Views\\Home\\AddPokemon.cshtml",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Views\\Home\\AddPokemon.cshtml",
+              "RelativeToolTip": "Pokedex\\Views\\Home\\AddPokemon.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:12:51.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Models\\Move.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Models\\Move.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Models\\Move.cs",
+              "RelativeToolTip": "Pokedex\\Models\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:12:26.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Pokedex\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:12:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PokedexContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Data\\PokedexContext.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Data\\PokedexContext.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Data\\PokedexContext.cs",
+              "RelativeToolTip": "Pokedex\\Data\\PokedexContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:11:14.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pokedex.csproj",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Pokedex.csproj",
+              "RelativeDocumentMoniker": "Pokedex\\Pokedex.csproj",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Pokedex.csproj",
+              "RelativeToolTip": "Pokedex\\Pokedex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T23:10:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pokedex\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:10:43.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "moves.json",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\wwwroot\\data\\moves.json",
+              "RelativeDocumentMoniker": "Pokedex\\wwwroot\\data\\moves.json",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\wwwroot\\data\\moves.json",
+              "RelativeToolTip": "Pokedex\\wwwroot\\data\\moves.json",
+              "ViewState": "AgIAAOguAAAAAAAAAAAcwPcuAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T23:10:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pokemon_data.json",
+              "DocumentMoniker": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\wwwroot\\data\\pokemon_data.json",
+              "RelativeDocumentMoniker": "Pokedex\\wwwroot\\data\\pokemon_data.json",
+              "ToolTip": "C:\\Users\\Zach\\source\\repos\\Pokedex\\Pokedex\\wwwroot\\data\\pokemon_data.json",
+              "RelativeToolTip": "Pokedex\\wwwroot\\data\\pokemon_data.json",
+              "ViewState": "AgIAALADAAAAAAAAAAAcwNYDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T23:10:08.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
